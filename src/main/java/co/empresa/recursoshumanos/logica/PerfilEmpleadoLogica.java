@@ -8,7 +8,6 @@ import java.util.List;
 
 @Service
 public class PerfilEmpleadoLogica
-{{}
     public PerfilEmpleadoRepository perfilEmpleadoRepository;
 
     public PerfilEmpleadoLogica(PerfilEmpleadoRepository perfilEmpleadoRepository) {
